@@ -19,5 +19,5 @@ Console.WriteLine("Average Words: {0}", score.AverageSentimentWords);
 
 License
 -------
-* AFINN-111.txt is subject to the ODbl-1.0 License
-* Sentiment.cs is subject to AGPL-3.0 License or higher
+* AFINN-111.txt is subject to the [ODbl-1.0 License](https://github.com/Cheesebaron/SharpFinn/blob/master/AGPL-3.0.txt)
+* Sentiment.cs is subject to [AGPL-3.0 License](https://github.com/Cheesebaron/SharpFinn/blob/master/AGPL-3.0.txt) or higher

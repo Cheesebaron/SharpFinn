@@ -1,5 +1,5 @@
 ##SharpFinn
-#### AFINN-based sentiment analysis for C#
+#### AFINN-based sentiment analysis for `C#`
 This is a library that utilises the [AFINN](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010) sentiment lexicon to make a simple [sentiment analysis](http://en.wikipedia.org/wiki/Sentiment_analysis).
 
 ### Usage
